@@ -11,6 +11,8 @@
    5. Department: The department the student belongs to in his/her academics
    6. Rising: The improvement of student from last week. Likely, rising = CodeKata Score - Previous Geekions
 
+------------------------------
+
 N.B:
 CodeKata is a programming practice platform developed and hosted by GUVI(An IITM and IIMA Incubated Company). 
 The CodeKata Platform contains 1500+ coding problems curated by industry-best programming experts and it supports 20+ programming languages.
