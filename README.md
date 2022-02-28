@@ -23,4 +23,5 @@ GUVI has wide range of IT courses in Indian regional languages as well as in Eng
 GUVI offers free courses as well as paid premium courses, live classes, bootcamps, etc.
 
 For more information check at https://www.guvi.in/referral/l/g62xr
+
 For CodeKata practice check at https://www.guvi.in/code-kata 
